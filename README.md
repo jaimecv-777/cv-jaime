@@ -17,7 +17,7 @@
     header {
       background-color: #7c7c7c;
       color: black;
-      padding: 1rem;
+      padding: 1 rem;
       text-align: center;
     }
 
@@ -30,7 +30,7 @@
 
     nav a {
       color: white;
-      padding: 1rem;
+      padding: 1 rem;
       text-decoration: none;
       display: block;
     }
@@ -41,7 +41,7 @@
 
     section {
       display: none;
-      padding: 1.5rem;
+      padding: 1.5 rem;
       max-width: 800px;
       margin: auto;
       background: #94bcc9;
@@ -54,23 +54,23 @@
     h2 {
       color: #333;
       border-bottom: 2px solid #ddd;
-      padding-bottom: 0.5rem;
-      margin-top: 2rem;
+      padding-bottom: 0.5 rem;
+      margin-top: 2 rem;
     }
 
     ul {
-      padding-left: 1.2rem;
+      padding-left: 1.2 rem;
     }
 
     @media (max-width: 600px) {
       nav a {
         flex: 1 1 100%;
-        padding: 0.8rem;
-        font-size: 0.95rem;
+        padding: 0.8 rem;
+        font-size: 0.95 rem;
       }
 
       section {
-        padding: 1rem;
+        padding: 1 rem;
       }
     }
   </style>
